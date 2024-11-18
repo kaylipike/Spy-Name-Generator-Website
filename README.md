@@ -8,11 +8,12 @@ This project integrates multiple technologies, including HTML, CSS, and PHP for 
 To use, prepare a test_cases.cpp file containing your test cases. Visit the website and upload your file. Results on the bugs you caught  are displayed directly on the webpage for easy review.
 
 Example Output:
-File uploaded!
 
-Found bugs: [1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13, 14, 15, 17]
+  File uploaded!
 
-Unfound bugs: [5, 11, 16, 18, 19, 20]
+  Found bugs: [1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13, 14, 15, 17]
+
+  Unfound bugs: [5, 11, 16, 18, 19, 20]
 
 
 This project was created by Kayli Pike as part of a class curriculum, with guidance from Prof. Lisa Dion. The testing framework and website design were inspired by class materials. The spy names were implemented based on the chart found here: https://www.facebook.com/DisneyPlusAU/posts/mighty-pigeon-here-reporting-for-dutywhats-your-spy-name-tell-us-belowspies-in-d/359877318704520/.
