@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <!-- Update author -->
+        <meta name="author" content="Kayli Pike">
+        <title>Testing!</title>
+        <!-- Update description -->
+        <meta name="description" content="This page is for checking the robustness of and testing a spy name generator function in C++.">
+        <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+    </head>
+    <body>
+    	<header>
+    		<h1>CS 2300</h1>
+    		<h2>Testing Practice</h2>
+            <!-- Update heading -->
+    		<h3>Spy Name Generator Function</h3>
+    	</header>
+        <p>Your file must be named test_cases.cpp</p>
+        <p>It should start with the following code:</p>
+        <code>#include &lt;iostream&gt;<br />
+using namespace std;<br />
+<br />
+<!-- Add function declaration and comments -->
+            /**<br />
+            * Spy Name Generator function<br />
+            * Requires: user birth month and first initial<br />
+            * Modifies: nothing<br />
+            * Effects: Returns the user's spy name.<br />
+            */<br />
+            string spy_name_generator(int birth_month, char first_initial);<br />
+<br />
+int main() {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;// Call your testing function(s) here<br />
+&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br />
+}
+</code>
+        <!-- This is where it calls process.php when you submit the file -->
+    	<form enctype="multipart/form-data" action="process.php" method="POST">
+            <p>Upload your test_cases.cpp file:</p>
+            <input type="file" name="test-cases" /><br />
+            <input type="submit" value="Upload" />
+        </form>
+    </body>
+</html>
