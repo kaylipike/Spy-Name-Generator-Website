@@ -16,6 +16,6 @@ Example Output:
   Unfound bugs: [5, 11, 16, 18, 19, 20]
 
 
-This project was created by Kayli Pike as part of a class curriculum, with guidance from Prof. Lisa Dion. The testing framework and website design were inspired by class materials. The spy names were implemented based on the chart found here: https://www.facebook.com/DisneyPlusAU/posts/mighty-pigeon-here-reporting-for-dutywhats-your-spy-name-tell-us-belowspies-in-d/359877318704520/.
+This project was created by Kayli Pike as part of a class curriculum, with guidance from Prof. Lisa Dion. Starter code was provided by Lisa Dion and used in this project. The testing framework and website design were inspired by class materials. The spy names were implemented based on the chart found here: https://www.facebook.com/DisneyPlusAU/posts/mighty-pigeon-here-reporting-for-dutywhats-your-spy-name-tell-us-belowspies-in-d/359877318704520/.
 
 For questions or feedback, contact knpike@uvm.edu.
