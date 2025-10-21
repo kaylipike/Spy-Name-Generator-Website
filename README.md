@@ -76,7 +76,7 @@ Starter code and project guidance were provided by Professor Lisa Dion.
 ## Contact
 
 For questions, suggestions, or feedback, please reach out:
-📧 **[knpike@uvm.edu](mailto:knpike@uvm.edu)**
+**[knpike@uvm.edu](mailto:knpike@uvm.edu)**
 
 ---
 
